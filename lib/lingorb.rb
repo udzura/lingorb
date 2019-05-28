@@ -1,6 +1,6 @@
 require "lingorb/version"
+require "lingorb/client"
 
 module Lingorb
-  class Error < StandardError; end
   # Your code goes here...
 end
