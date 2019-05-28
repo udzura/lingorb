@@ -28,7 +28,7 @@ Or install it yourself as:
 # I want Ruby API like that
 cli = Lingorb.authenticate(@user, @passwd)
 user = cli.current_user
-p user.activity_stream
+p user.gain_xp_history
 ```
 
 ## Development
