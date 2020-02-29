@@ -25,5 +25,5 @@ Gem::Specification.new do |spec|
   spec.add_runtime_dependency "faraday", "~> 0.15"
 
   spec.add_development_dependency "bundler", "~> 2.0"
-  spec.add_development_dependency "rake", "~> 10.0"
+  spec.add_development_dependency "rake", "~> 13.0"
 end
